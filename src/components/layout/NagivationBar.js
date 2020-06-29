@@ -13,8 +13,9 @@ function NagivationBar(){
         <Navbar.Toggle aria-controls="basic-navbar-nav"/>
         <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="mr-auto">
-            <Nav.Link href="/timer">Timer</Nav.Link>
+            <Nav.Link href="/">Home</Nav.Link>
             <Nav.Link href="/algorithms">Algorithms</Nav.Link>
+            <Nav.Link href="/algorithms">About</Nav.Link>
             </Nav>
             <Form inline>
                 <FormControl type="text" placeholder="Search" className="mr-sm-2" />

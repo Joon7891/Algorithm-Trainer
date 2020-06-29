@@ -18,7 +18,7 @@ class App extends Component {
         <NagivationBar/>
 
         <Switch>
-          <Route path="/main"><Main/></Route>
+          <Route strict path="/"><Main/></Route>
           <Route path="/algorithms"><Algorithms/></Route>
           <Route path="/about"><About/></Route>
         </Switch>
