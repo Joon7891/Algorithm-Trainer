@@ -1,0 +1,9 @@
+.timer-container {
+    height: 100%;
+    padding: 0 !important;
+}
+
+#time {
+    text-align: center;
+    font-size: 600%;
+}

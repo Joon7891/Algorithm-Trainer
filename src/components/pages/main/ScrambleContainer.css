@@ -1,0 +1,23 @@
+#scrambleBox {
+    text-align: center;
+    padding: 15px;
+    margin: 0 !important;
+    border: 1px solid black;
+    min-width: 100%;
+}
+
+
+#leftCol {
+    min-width: 5%;
+    align-items: left;
+}
+
+#midCol {
+    min-width: 90%;
+    text-align: center;
+}
+
+#rightCol {
+    min-width: 5%;
+    align-items: left;
+}
